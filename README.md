@@ -5,3 +5,4 @@ To start
 3. npm start
 
 Note- Install the axios version of 0.18.1 specifically if other version is installed.
+Switch to 'develop' branch
