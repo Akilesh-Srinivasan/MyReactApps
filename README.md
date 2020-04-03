@@ -1,4 +1,4 @@
-# YouTubeApp
+# Video Search
 To start
 1. Clone the repo
 2. npm install
